@@ -1,5 +1,5 @@
 央视频道,#genre#
-CCTV-1,http://120.76.248.139/live/bfgd/4200000488.m3u8
+CCTV-1,http://123.154.111.79:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-2,http://39.135.133.177:80/wh7f454c46tw1338203950_2016505455/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?
 CCTV-3,http://39.135.135.41/wh7f454c46tw1956839526_-720028145/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-4,http://39.135.133.143:80/wh7f454c46tw3883039393_1350507801/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8?
@@ -154,11 +154,6 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 叶县,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
 周口扶沟,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
 呼和浩特新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
-哈尔滨娱乐,https://stream.hrbtv.net/ylpd/sd/live.m3u8
-哈尔滨新闻综合,http://stream.hrbtv.net/xwzh/sd/live.m3u8
-哈尔滨生活,https://stream.hrbtv.net/shpd/sd/live.m3u8
-哈尔滨都市资讯,https://stream.hrbtv.net/zxpd/sd/live.m3u8
-唐河一套,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8?zanhd
 天水新闻综合,https://play.kankanlive.com/live/1698724188723989.m3u8
@@ -391,8 +386,7 @@ YMG未来,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?
 全省卫视,#genre#
 吉林卫视,http://39.135.133.161:80/wh7f454c46tw2035475484_350672847/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8?
 军事评论,http://39.134.65.3:80/wh7f454c46tw1692016868_-1516333284/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
-辽宁卫视,http://lu.wqwqwq.sbs/itv/1000000005000265022.m3u8?cdn=ystenlive
-辽宁卫视,http://114.254.88.18:8888/rtp/239.3.1.210:8056
+辽宁卫视,http://iptv.huuc.edu.cn/hls/lnhd.m3u8
 北京卫视,http://39.135.135.11:80/wh7f454c46tw1614955021_-2080436109/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 东方卫视,http://39.135.133.174:80/wh7f454c46tw4120819765_-1012470760/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8?
 湖南卫视,http://39.134.65.71:80/wh7f454c46tw1199870867_1956939961/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
